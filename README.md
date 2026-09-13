@@ -10,6 +10,20 @@ An AI-powered portfolio project that converts unstructured job descriptions into
 
 **Product & AI Portfolio Project by ZHANG JIN**
 
+## Product Screenshots
+
+### From unstructured inputs to a structured analysis
+
+Users can load a sample or paste a privacy-safe job description and resume summary.
+
+![JD and resume input](screenshots/01-jd-and-resume-input.png)
+
+### Evidence-oriented output
+
+The MVP classifies the role, extracts responsibilities and requirements, and connects conclusions to resume evidence and interview preparation.
+
+![Structured analysis result](screenshots/02-analysis-result.png)
+
 ## Why This Product
 
 Candidates often spend significant time reading repetitive job descriptions, comparing similar roles, and deciding how their experience maps to each requirement. Generic chatbots may summarize a JD, but they do not consistently trace conclusions back to resume evidence or provide a repeatable comparison framework.
