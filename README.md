@@ -1,6 +1,12 @@
 # AI Job Insight Assistant
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-FF4B4B?logo=streamlit&logoColor=white)](https://zhang-jin-ai-job-insight.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 An AI-powered portfolio project that converts unstructured job descriptions into structured requirements, evidence-based resume matching, capability gaps, and role-specific interview preparation.
+
+**[Try the live demo →](https://zhang-jin-ai-job-insight.streamlit.app/)**
 
 **Product & AI Portfolio Project by ZHANG JIN**
 
